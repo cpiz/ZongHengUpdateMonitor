@@ -4,6 +4,7 @@ __version__ = "$Id$"
 
 import logging
 
+# 中文注释
 import sys
 reload(sys)
 sys.setdefaultencoding("gbk")
